@@ -45,7 +45,7 @@ int main()                      //Die Oberfunktion beginnt hier mit dem int main
         {
         while ( getline (myfile,line) ) // Wenn die Datei myfile(tierxml.xml) vorhanden ist soll etwas damit geschehen.
         {
-         cout << line << '\n';          // durch die cout Funktion wird der ganze Inhalt durch "line" in der Konsole angezeigt.
+         cout << line << '\n';          // durch die cout Funktion wird der ganze Inhalt durch "line" in der Konsole angezeigt. Die Datei wird genauso wie das XML-Beispiel auf der HKI-Seite für die Semesterarbeit.
          }
         myfile.close();                 // Hier wird die Datei wieder nach dem Öfnnen und lesen geschlossen.
        }
