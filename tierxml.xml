@@ -1,0 +1,48 @@
+-<listTiere>
+
+
+-<tier xml:id="222">
+
+<name>Bentley</name>
+
+<rasse>Labrador Mix</rasse>
+
+<alter>5</alter>
+
+<schutzgebuer>250.00</schutzgebuer>
+
+<abgabegrund>Zeitmangel.</abgabegrund>
+
+</tier>
+
+
+-<tier xml:id="333">
+
+<name>Will</name>
+
+<rasse>Pudel</rasse>
+
+<alter>3</alter>
+
+<schutzgebuer>250.00</schutzgebuer>
+
+<abgabegrund>Besitzer verstorben.</abgabegrund>
+
+</tier>
+
+
+-<tier xml:id="444">
+
+<name>Laila</name>
+
+<rasse>Akita Inu</rasse>
+
+<alter>2</alter>
+
+<schutzgebuer>250.00</schutzgebuer>
+
+<abgabegrund>Unbekannt</abgabegrund>
+
+</tier>
+
+</listTiere>
